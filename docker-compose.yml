@@ -1,7 +1,7 @@
 version: "3.9"
 services:
  useritem-api-service:
-  image: runemannaerts/fastapi_pokemon
+  image: rune1521/fastapi_pokemon
   ports:
     - "8000:8000"
   volumes:
