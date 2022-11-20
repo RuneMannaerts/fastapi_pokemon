@@ -11,10 +11,10 @@ i also used pokemon since i can quite easily find information wich would also be
 ##api + docs:
 
 full api docs:
-<img src="/img/docs api/jpg">
-<img src="/img/docs api2.jpg">
+<img src="/img/docs api/JPG">
+<img src="/img/docs api2.JPG">
 
 ##frontend with api requests:
 
 ###get pokemon:
-<img src="/img/get pokemon.jpg">
+<img src="/img/get pokemon.JPG">
