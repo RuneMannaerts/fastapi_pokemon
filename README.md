@@ -7,10 +7,17 @@ i also used pokemon since i can quite easily find information wich would also be
 
 <img src="/img/api idea.png">
 
+## links to api, frontend repository and frontend hosted:
+
+### <a href="https://useritem-api-service-runemannaerts.cloud.okteto.net">api</a>
+
+### <a href="https://github.com/RuneMannaerts/frontend-api">frontend github</a>
+
+### <a href="https://front-end-api-rune-pokemon.netlify.app">frontend hosted</a>
 
 ## api + docs:
 
-### <a href="https://useritem-api-service-runemannaerts.cloud.okteto.net">link</a>
+
 
 ### full api docs:
 
@@ -55,6 +62,8 @@ i also used pokemon since i can quite easily find information wich would also be
 <img src="/img/get regions.JPG">
 
 ## frontend with api request:
+
+
 
 ### get pokemon + setup post pokemon:
 
