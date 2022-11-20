@@ -17,5 +17,5 @@ part 2:
 
 ## frontend with api requests:
 
-###get pokemon:
+### get pokemon:
 <img src="/img/get pokemon.JPG">
