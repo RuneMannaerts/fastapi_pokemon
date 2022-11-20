@@ -8,13 +8,14 @@ i also used pokemon since i can quite easily find information wich would also be
 <img src="/img/api idea.png">
 
 
-##api + docs:
+## api + docs:
 
 full api docs:
 <img src="/img/docs api.JPG">
+part 2:
 <img src="/img/docs api2.JPG">
 
-##frontend with api requests:
+## frontend with api requests:
 
 ###get pokemon:
 <img src="/img/get pokemon.JPG">
