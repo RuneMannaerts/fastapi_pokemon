@@ -16,7 +16,7 @@ i also used pokemon since i can quite easily find information wich would also be
 
 ### part 2:
 
-<img src="/img/docs api2.JPG">
+<img src="/img/docs api 2.JPG">
 
 ## frontend with api requests:
 
