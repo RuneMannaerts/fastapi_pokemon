@@ -7,10 +7,6 @@ import services as _services, schemas as _schemas
 app = _fastapi.FastAPI()
 
 origins = [
-    "http://localhost",
-    "http://localhost:8080",
-    "https://localhost.tiangolo.com",
-    "http://127.0.0.1:5500",
     "https://front-end-api-rune-pokemon.netlify.app"
 ]
 
