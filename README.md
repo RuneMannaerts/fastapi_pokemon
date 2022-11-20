@@ -13,7 +13,7 @@ i also used pokemon since i can quite easily find information wich would also be
 full api docs:
 <img src="/img/docs api.JPG">
 part 2:
-<img src="/img/docs api2.JPG">
+![doc](/img/docs api2.jpg)
 
 ## frontend with api requests:
 
