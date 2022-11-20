@@ -1,9 +1,26 @@
 from typing import List
 import fastapi as _fastapi
+from fastapi.middleware.cors import CORSMiddleware
 import sqlalchemy.orm as _orm
 import services as _services, schemas as _schemas
 
 app = _fastapi.FastAPI()
+
+origins = [
+    "http://localhost",
+    "http://localhost:8080",
+    "https://localhost.tiangolo.com",
+    "http://127.0.0.1:5500"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 _services.create_database()
 

@@ -12,6 +12,7 @@ class _PokemonBase(_pydantic.BaseModel):
 
 
 class PokemonCreate(_PokemonBase):
+    pokedex: int
     pokename: str
     type1: str
     region:int
