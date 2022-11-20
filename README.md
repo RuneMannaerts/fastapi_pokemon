@@ -42,7 +42,34 @@ i also used pokemon since i can quite easily find information wich would also be
 
 <img src="/img/get region.JPG">
 
-## frontend with api requests:
+## postman api requests:
 
 ### get pokemon:
+
 <img src="/img/get pokemon.JPG">
+
+### get region:
+
+<img src="/img/get regions.JPG">
+
+## frontend with api request:
+
+### get pokemon + setup post pokemon:
+
+<img src="/img/site get pokemon and about to post caterpie.JPG">
+
+### post pokemon done(still on page) + newly created pokemon displayed:
+
+<img src="/img/just created caterpie + newly created caterpie displayed.JPG">
+
+### get region:
+
+<img src="/img/get region kanto.JPG">
+
+### new region created: 
+
+<img src="/img/created new region.JPG">
+
+### created region found + create still on screen:
+
+<img src="/img/created region found.JPG">
