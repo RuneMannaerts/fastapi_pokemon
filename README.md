@@ -18,6 +18,30 @@ i also used pokemon since i can quite easily find information wich would also be
 
 <img src="/img/docs api 2.JPG">
 
+### create pokemon:
+
+<img src="/img/create pokemon.JPG">
+
+### create region:
+
+<img src="/img/create region.JPG">
+
+### delete pokemon:
+
+<img src="/img/delete pokemon.JPG">
+
+### delete region:
+
+<img src="/img/delete region.JPG">
+
+### get pokemon:
+
+<img src="/img/get 1.JPG">
+
+### get region:
+
+<img src="/img/get region.JPG">
+
 ## frontend with api requests:
 
 ### get pokemon:
